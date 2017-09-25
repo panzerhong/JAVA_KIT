@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="AbstractAndConcrete/src"/>
+	<classpathentry kind="src" path="Arrays/src"/>
+	<classpathentry kind="src" path="CollectionDemo/src"/>
+	<classpathentry kind="src" path="CollectionDemos/src"/>
+	<classpathentry kind="src" path="ConstructorsDemo/src"/>
+	<classpathentry kind="src" path="ControlStructures/src"/>
+	<classpathentry kind="src" path="ExceptiondCntd/src"/>
+	<classpathentry kind="src" path="ExceptionHandling/src"/>
+	<classpathentry kind="src" path="ExceptionHierarchy/src"/>
+	<classpathentry kind="src" path="FilesDemo/src"/>
+	<classpathentry kind="src" path="FunctionOverLoading/src"/>
+	<classpathentry kind="src" path="HashCodeEquals/src"/>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="HelloWorld1/src"/>
+	<classpathentry kind="src" path="ImplementingRunnableInterface/src"/>
+	<classpathentry kind="src" path="InheritanceExamples/src"/>
+	<classpathentry kind="src" path="JoinFunction/src"/>
+	<classpathentry kind="src" path="LoopsContd/src"/>
+	<classpathentry kind="src" path="MultipleLocks/src"/>
+	<classpathentry kind="src" path="Sorting/src"/>
+	<classpathentry kind="src" path="SortingDemo/src"/>
+	<classpathentry kind="src" path="StringsDemo/src"/>
+	<classpathentry kind="src" path="TheFinalKeyword/src"/>
+	<classpathentry kind="src" path="ThisAndSuper/src"/>
+	<classpathentry kind="src" path="ThreadCOmplete/src"/>
+	<classpathentry kind="src" path="ThreadCreation/src"/>
+	<classpathentry kind="src" path="ThreadPriority/src"/>
+	<classpathentry kind="src" path="ThreadSync/src"/>
+	<classpathentry kind="src" path="Variables And Constants/src"/>
+	<classpathentry kind="src" path="VolatileUsage/src"/>
+	<classpathentry kind="src" path="WaitAndNotifyExample/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="AbstractAndConcrete/bin"/>
+</classpath>
